@@ -1,0 +1,10 @@
+.envrc
+.terraform.lock.hcl
+kubeconfig
+talosconfig
+talosconfig.orig
+terraform.tfstate
+terraform.tfstate.backup
+terraform.tfstate*
+.terraform/
+terraform.tfvars
